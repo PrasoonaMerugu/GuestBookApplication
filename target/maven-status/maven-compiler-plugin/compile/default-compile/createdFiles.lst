@@ -1,0 +1,11 @@
+com\guestbook\beans\Entry.class
+com\guestbook\dao\UserDAO.class
+com\guestbook\GuestbookApplication.class
+com\guestbook\beans\ImageEntry.class
+com\guestbook\beans\UserType.class
+com\guestbook\rest\UserServices.class
+com\guestbook\beans\TextEntry.class
+com\guestbook\dao\CommonDAO.class
+com\guestbook\dao\EntryDAO.class
+com\guestbook\beans\User.class
+com\guestbook\rest\EntriesService.class
